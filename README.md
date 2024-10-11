@@ -1,10 +1,10 @@
 ## Overview
 
-**Project Title**:
+**Customer Database**:
 
-**Project Description**:
+**A cloud database to hold the relevant info for customers of my side hustle.**:
 
-**Project Goals**:
+**Create one place to keep all the info on orders.**:
 
 ## Instructions for Build and Use
 
