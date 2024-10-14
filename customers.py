@@ -24,7 +24,7 @@ def main():
         input('Press \'enter\' to continue...\n')
 
 # FUNCTIONS
-# 1 display all orders with the customer name first
+# 1 display all orders with the customer name first. change this later to display each name once with all orders under that name.
 def display():
     displayed = []
     orders = db.collection('orders').get()
